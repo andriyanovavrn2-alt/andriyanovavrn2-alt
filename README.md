@@ -32,5 +32,5 @@ I'm currently learning and building projects to sharpen my skills.
 **Other**
 - Git & GitHub
 - Visual Studio / VS Code
-
+- PyCharm
 ---
