@@ -1,3 +1,9 @@
+<div align="center">
+<img width="735" height="245" alt="30188259997374870" src="https://github.com/user-attachments/assets/885f34e5-6b76-45fe-acbf-985d9106b470" />
+</div>
+
+---
+
 ## 👋Hi there 
 
 I'm a college student passionate about software development.
