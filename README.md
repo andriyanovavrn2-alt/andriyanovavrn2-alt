@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋Hi there 
 
-<!--
-**andriyanovavrn2-alt/andriyanovavrn2-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student passionate about software development.
+I'm currently learning and building projects to sharpen my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍🎓 About Me
+- 🎓 Studying programming at college (4th year).
+- 🌱 I’m currently learning **C#**, **Python**, **C++** and diving into **ASP.NET Core**.
+- 📊 I enjoy designing UML diagrams using **draw.io** and **Software Ideas Modeler**.
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages**
+- C# (main focus)
+- Python
+- C++
+
+**Frameworks & Libraries**
+- ASP.NET Core (currently learning)
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**Design & Modeling**
+- draw.io
+- Software Ideas Modeler
+
+**Other**
+- Git & GitHub
+- Visual Studio / VS Code
+
+---
